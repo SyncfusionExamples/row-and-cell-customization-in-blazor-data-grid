@@ -1,6 +1,6 @@
 # Row and Cell Customization in Blazor Data Grid
 
-A quick-start project that helps you to customize the rows and cells of the Blazor Data Grid control. This project also contains simple code to wrap column data, apply clip modes and grid lines.
+A quick-start project that helps you to customize the rows and cells of the Blazor Data Grid component. This project also contains simple code to wrap column data, apply clip modes and grid lines.
 
 **Documentation**:
 
