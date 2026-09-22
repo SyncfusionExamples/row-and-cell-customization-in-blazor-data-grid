@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the appearance and behavior of rows and cells in the Syncfusion Blazor DataGrid. The implementation showcases row-level customization techniques together with cell presentation options, enabling developers to control how data is displayed within the grid. These customization techniques can be used to highlight important information, improve usability, and adapt the grid layout to specific business requirements.
+This sample demonstrates how to customize the appearance and behavior of rows and cells in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The implementation showcases row-level customization techniques together with cell presentation options, enabling developers to control how data is displayed within the grid. These customization techniques can be used to highlight important information, improve usability, and adapt the grid layout to specific business requirements.
 
 ## Key Features
 
